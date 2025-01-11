@@ -1,4 +1,4 @@
-# SunoSongsCreator
+# So Raw
 About High quality songs generation by https://www.suno.ai/. Reverse engineered API.
 
 ## How to
